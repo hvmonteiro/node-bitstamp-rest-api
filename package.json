@@ -1,0 +1,35 @@
+{
+  "name": "node-bitstamp-rest-api",
+  "version": "0.1.0",
+  "description": "A NodeJS module to retrieve data from Bitstamp REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hvmonteiro/node-bitstamp-rest-api.git"
+  },
+  "keywords": [
+    "bitstamp",
+    "cryptocurrencies",
+    "cryptocoins",
+    "analytics",
+    "api",
+    "rest",
+    "events",
+    "trading"
+  ],
+  "author": "Hugo V. Monteiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hvmonteiro/node-bitstamp-rest-api/issues"
+  },
+  "homepage": "https://github.com/hvmonteiro/node-bitstamp-rest-api#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "contributors": [
+    {"name":"Alex Caston","url":"hhttps://github.com/Aex12"}
+  ]
+}
